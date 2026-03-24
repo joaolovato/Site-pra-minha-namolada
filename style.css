@@ -1,0 +1,15 @@
+body {
+    background-image: url('https://img.freepik.com/fotos-premium/feliz-dia-dos-namorados-dia-das-maes-e-aniversario-projeto-de-arte-em-papel-coracao-vermelho-com-fundo-de-espaco-em-branco-renderizacao-em-3d_20693-835.jpg?semt=ais_hybrid&w=740&q=80');
+    background-size: cover; /* Cobre toda a tela */
+    background-repeat: no-repeat; /* Não repete a imagem */
+    background-position: center; /* Centraliza a imagem */
+    background-attachment: fixed; /* Opcional: fixa a imagem ao rolar */
+}
+
+.letequente {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
